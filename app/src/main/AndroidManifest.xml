@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.android.convertor" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Length"
+            android:label="@string/title_activity_length" >
+        </activity>
+        <activity
+            android:name=".Weight"
+            android:label="@string/title_activity_weight" >
+        </activity>
+        <activity
+            android:name=".Volume"
+            android:label="@string/title_activity_volume" >
+        </activity>
+        <activity
+            android:name=".Area"
+            android:label="@string/title_activity_area" >
+        </activity>
+        <activity
+            android:name=".Temperature"
+            android:label="@string/title_activity_temperature" >
+        </activity>
+        <activity
+            android:name=".mm"
+            android:label="@string/title_activity_mm" >
+        </activity>
+        <activity
+            android:name=".Meters"
+            android:label="@string/title_activity_meters" >
+        </activity>
+        <activity
+            android:name=".KiloMeter"
+            android:label="@string/title_activity_kilo_meter" >
+        </activity>
+        <activity
+            android:name=".Feet"
+            android:label="@string/title_activity_feet" >
+        </activity>
+        <activity
+            android:name=".Inches"
+            android:label="@string/title_activity_inches" >
+        </activity>
+        <activity
+            android:name=".Miles"
+            android:label="@string/title_activity_miles" >
+        </activity>
+        <activity
+            android:name=".Nautical_Mile"
+            android:label="@string/title_activity_nautical__mile" >
+        </activity>
+        <activity
+            android:name=".Yards"
+            android:label="@string/title_activity_yards" >
+        </activity>
+        <activity
+            android:name=".Milligram"
+            android:label="@string/title_activity_milligram" >
+        </activity>
+        <activity
+            android:name=".Gram"
+            android:label="@string/title_activity_gram" >
+        </activity>
+        <activity
+            android:name=".KiloGram"
+            android:label="@string/title_activity_kilo_gram" >
+        </activity>
+        <activity
+            android:name=".Tonne"
+            android:label="@string/title_activity_tonne" >
+        </activity>
+        <activity
+            android:name=".Ounce"
+            android:label="@string/title_activity_ounce" >
+        </activity>
+        <activity
+            android:name=".Grains"
+            android:label="@string/title_activity_grains" >
+        </activity>
+        <activity
+            android:name=".Pounds"
+            android:label="@string/title_activity_pounds" >
+        </activity>
+        <activity
+            android:name=".Stones"
+            android:label="@string/title_activity_stones" >
+        </activity>
+        <activity
+            android:name=".Cubic_cm"
+            android:label="@string/title_activity_cubic_cm" >
+        </activity>
+        <activity
+            android:name=".Cubic_m"
+            android:label="@string/title_activity_cubic_m" >
+        </activity>
+        <activity
+            android:name=".Cubic_feet"
+            android:label="@string/title_activity_cubic_feet" >
+        </activity>
+        <activity
+            android:name=".Gallons"
+            android:label="@string/title_activity_gallons" >
+        </activity>
+        <activity
+            android:name=".Cubic_Inch"
+            android:label="@string/title_activity_cubic__inch" >
+        </activity>
+        <activity
+            android:name=".Cubic_Litres"
+            android:label="@string/title_activity_cubic__litres" >
+        </activity>
+        <activity
+            android:name=".Litres"
+            android:label="@string/title_activity_litres" >
+        </activity>
+        <activity
+            android:name=".Cubic_Yards"
+            android:label="@string/title_activity_cubic__yards" >
+        </activity>
+        <activity
+            android:name=".Square_cm"
+            android:label="@string/title_activity_square_cm" >
+        </activity>
+        <activity
+            android:name=".Square_m"
+            android:label="@string/title_activity_square_m" >
+        </activity>
+        <activity
+            android:name=".Acres"
+            android:label="@string/title_activity_acres" >
+        </activity>
+        <activity
+            android:name=".Square_feet"
+            android:label="@string/title_activity_square_feet" >
+        </activity>
+        <activity
+            android:name=".Hectares"
+            android:label="@string/title_activity_hectares" >
+        </activity>
+        <activity
+            android:name=".Square_Inches"
+            android:label="@string/title_activity_square__inches" >
+        </activity>
+        <activity
+            android:name=".Square_Miles"
+            android:label="@string/title_activity_square__miles" >
+        </activity>
+        <activity
+            android:name=".Yards_square"
+            android:label="@string/title_activity_yards_square" >
+        </activity>
+        <activity
+            android:name=".Degree_Farenheit"
+            android:label="@string/title_activity_degree__farenheit" >
+        </activity>
+    </application>
+
+</manifest>

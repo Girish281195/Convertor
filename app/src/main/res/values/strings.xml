@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">Convertor</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_length">Length</string>
+    <string name="title_activity_weight">Weight</string>
+    <string name="title_activity_volume">Volume</string>
+    <string name="title_activity_area">Area</string>
+    <string name="title_activity_temperature">Temperature</string>
+    <string-array name="len">
+        <item>mm</item>
+        <item>cm</item>
+        <item>m</item>
+        <item>km</item>
+        <item>Feet</item>
+        <item>Inches</item>
+        <item>Miles</item>
+        <item>Naut. Miles</item>
+        <item>Yards</item>
+    </string-array>
+
+    <string-array name="weight">
+        <item>Stones</item>
+        <item>mg</item>
+        <item>g</item>
+        <item>kg</item>
+        <item>Tonne</item>
+        <item>Grains</item>
+        <item>Ounces</item>
+        <item>Pounds</item>
+
+    </string-array>
+
+    <string-array name="Volume">
+        <item>Cubic cm</item>
+        <item>Cubic m</item>
+        <item>Cubic Feet</item>
+        <item>Gallons</item>
+        <item>Cubic Inches</item>
+        <item>Litres</item>
+        <item>Cubic Yards</item>
+    </string-array>
+
+    <string-array name="area">
+        <item>Sq cm</item>
+        <item>Sq m</item>
+        <item>Acres</item>
+        <item>Sq Feet</item>
+        <item>Hectares</item>
+        <item>Sq Inches</item>
+        <item>Sq Miles</item>
+        <item>Yards Sq</item>
+
+    </string-array>
+
+    <string-array name="temperature">
+        <item>deg Celsius</item>
+        <item>deg Fahrenheit</item>
+
+    </string-array>
+
+
+
+    <string name="title_activity_mm">mm</string>
+    <string name="title_activity_meters">Meters</string>
+    <string name="title_activity_kilo_meter">KiloMeter</string>
+    <string name="title_activity_feet">Feet</string>
+    <string name="title_activity_inches">Inches</string>
+    <string name="title_activity_miles">Miles</string>
+    <string name="title_activity_nautical__mile">Nautical_Mile</string>
+    <string name="title_activity_yards">Yards</string>
+    <string name="title_activity_milligram">Milligram</string>
+    <string name="title_activity_gram">Gram</string>
+    <string name="title_activity_kilo_gram">KiloGram</string>
+    <string name="title_activity_tonne">Tonne</string>
+    <string name="title_activity_ounce">Ounce</string>
+    <string name="title_activity_grains">Grains</string>
+    <string name="title_activity_pounds">Pounds</string>
+    <string name="title_activity_stones">Stones</string>
+    <string name="title_activity_cubic_cm">Cubic_cm</string>
+    <string name="title_activity_cubic_m">Cubic_m</string>
+    <string name="title_activity_cubic_feet">Cubic_feet</string>
+    <string name="title_activity_gallons">Gallons</string>
+    <string name="title_activity_cubic__inch">Cubic_Inch</string>
+    <string name="title_activity_cubic__litres">Cubic_Litres</string>
+    <string name="title_activity_litres">Litres</string>
+    <string name="title_activity_cubic__yards">Cubic_Yards</string>
+    <string name="title_activity_square_cm">Square_cm</string>
+    <string name="title_activity_square_m">Square_m</string>
+    <string name="title_activity_acres">Acres</string>
+    <string name="title_activity_square_feet">Square_feet</string>
+    <string name="title_activity_hectares">Hectares</string>
+    <string name="title_activity_square__inches">Square_Inches</string>
+    <string name="title_activity_square__miles">Square_Miles</string>
+    <string name="title_activity_yards_square">Yards_square</string>
+    <string name="title_activity_degree__farenheit">Degree_Farenheit</string>
+</resources>
